@@ -1,3 +1,9 @@
+---
+name: mcpconf
+description: Helps build out a conference agenda
+license: Complete terms in LICENSE.txt
+---
+
 ## Inputs
 
 * **conference\_url** (optional): Conference homepage URL. Default: `https://mcpdevsummit.ai`
